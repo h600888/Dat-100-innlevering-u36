@@ -1,8 +1,6 @@
 package no.hvl.data100;
 
-	import static javax.swing.JOptionPane.*;
-
-import javax.swing.JOptionPane;
+import static javax.swing.JOptionPane.*;
 
 
 public class O1 {
